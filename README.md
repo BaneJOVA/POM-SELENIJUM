@@ -1,1 +1,1 @@
-# POM-SELENIJUM
+# Page Object Model pattern
